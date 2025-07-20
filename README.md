@@ -18,7 +18,5 @@ This project is focused on building an information retrieval system by crawling 
 - ✅ Document ranking based on user query
 - ✅ Easy search through merged web data
 
----
 
-## 🏗️ Project Structure
 
